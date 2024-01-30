@@ -1,2 +1,2 @@
 # porfolio
-This is resume in portfolio.
+This is a resume in portfolio.
